@@ -20,8 +20,6 @@ Each post is clear, fun, and explains real Jenkins concepts like a story.
 
 ✅ Post 1: Why Jenkins? Why Now?
 
-🎯 Post Goal: Set the stage. Make readers feel the need for automation before introducing Jenkins.
-
 🚧 Still manually deploying code? Copy-pasting configs? Fixing “it works on my machine” bugs?
 
 It’s time to talk about DevOps automation — and the tool at the heart of it all: Jenkins.
