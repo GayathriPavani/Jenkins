@@ -41,8 +41,11 @@ CD (Continuous Delivery/Deployment) → Automatically deploy your code to enviro
 And Jenkins handles both like a boss 😎
 
 With Jenkins, you can:
+
 ✅ Automatically build and test code when you push to Git
+
 ✅ Deploy to staging or production with zero clicks
+
 ✅ Integrate with tools like Docker, Kubernetes, SonarQube, Slack, and more
 
 👀 Why it matters:
@@ -76,9 +79,11 @@ That’s Jenkins. And this is just the beginning.
 ✅ Post 2: How Jenkins Works – The CI/CD Mindset
 
 🤔 What Does Jenkins Actually Do?
+
 Imagine this:
 
 💻 You push code to GitHub → Jenkins wakes up
+
 🧪 It builds, tests, and deploys your code — without you lifting a finger
 
 That’s the CI/CD mindset — and Jenkins is built for it.
@@ -113,6 +118,7 @@ Send alerts if anything fails 🚨
 
 🧠 Interview Tip:
 ❓ How does Jenkins fit into a CI/CD pipeline?
+
 ✅ Jenkins automates the full process — from code check-in to deployment — using pipelines triggered by code changes or schedules.
 
 
@@ -124,6 +130,7 @@ Send alerts if anything fails 🚨
 It’s called a Jenkinsfile.
 
 📜 What Is a Jenkinsfile?
+
 A Jenkinsfile is a text file that contains the pipeline script Jenkins uses to automate your build, test, and deployment steps. (or) It’s just a text file (yes, literally a file!) where you describe your automation process using a special language called declarative syntax
 
 💡 Think of it like a recipe — Jenkins reads it and follows each step automatically.
